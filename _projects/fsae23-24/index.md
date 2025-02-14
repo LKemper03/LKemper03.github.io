@@ -18,7 +18,8 @@ main-image: /team on car.jpg
 {% include image-gallery.html images="Ergo 2324 iso view.png, Ergo 2324 side view.png" height="400" %}
 
 ## Seat Design
-{% include image-gallery.html images="Seat 2324 iso view.png, Seat 2324 reference image.jpg, Seat 2324 left side view.png" height="400" %}
+{% include image-gallery.html images="Seat 2324 iso view.png" height="400" %} <br>
+{% include image-gallery.html images="Seat 2324 reference image.jpg, Seat 2324 left side view.png" height="400" %}
 
 ## Steering Wheel Design
 {% include image-gallery.html images="Wheel 2324 angled view.png" height="400" %}
