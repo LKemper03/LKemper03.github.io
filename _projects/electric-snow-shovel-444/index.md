@@ -6,5 +6,5 @@ skills:
 - Surface modeling
 - Solid modeling
 - Solidworks Design/Assembly
-main-image: /project.webp 
+main-image: /ME444 Assembly Iso View.png
 ---
