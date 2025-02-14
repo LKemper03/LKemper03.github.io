@@ -10,7 +10,7 @@ skills:
   - Composite wet layup
   - Composite vacuum bagging
 
-main-image: /team on car.jpg
+main-image: /bothteams.jpg
 ---
 
 ---
