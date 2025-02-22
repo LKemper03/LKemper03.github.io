@@ -19,11 +19,11 @@ main-image: /bajateam.jpg
 
 ## ANSYS Seat Analysis
 # Technical Inspection Load
-{% include image-gallery.html images="bajaseatdesignjudgeundeformed.png, bajaseatdesignjudgedeformed.png" height="400" %}
+{% include image-gallery.html images="bajaseatdesignjudgeforces.png, bajaseatdesignjudgeundeformed.png, bajaseatdesignjudgedeformed.png" height="400" %}
 Max deformation: 0.6934 in
 Applied force: 115 lbf
 
 # Seated Driver Load
-{% include image-gallery.html images="bajaseatsittingundeformed.png, bajaseatsittingdeformed.png" height="400" %}
+{% include image-gallery.html images="bajaseatsittingforces.png, bajaseatsittingundeformed.png, bajaseatsittingdeformed.png" height="400" %}
 Max deformation: 0.0704 in
 Applied force: 180 lbf
