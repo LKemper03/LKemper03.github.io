@@ -14,7 +14,7 @@ main-image: /bothteams.jpg
 ---
 
 ---
-## Components In Car
+## Components In Chassis
 {% include image-gallery.html images="Ergo 2324 iso view.png, Ergo 2324 side view.png" height="400" %}
 Ergonomics components mounted in the chassis assembly.
 
