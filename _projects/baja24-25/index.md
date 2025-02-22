@@ -10,8 +10,20 @@ skills:
   - Composite wet layup
   - Composite vacuum bagging
 
-main-image: /
+main-image: /bajateam.jpg
 ---
 
 ---
 ## Components in Chassis
+{% include image-gallery.html images="Baja Ergo Assembly iso.png" height="400" %}
+
+## ANSYS Seat Analysis
+# Technical Inspection Load
+{% include image-gallery.html images="bajaseatdesignjudgeundeformed.png, bajaseatdesignjudgedeformed.png" height="400" %}
+Max deformation: 0.6934 in
+Applied force: 115 lbf
+
+# Seated Driver Load
+{% include image-gallery.html images="bajaseatsittingundeformed.png, bajaseatsittingdeformed.png" height="400" %}
+Max deformation: 0.0704 in
+Applied force: 180 lbf
