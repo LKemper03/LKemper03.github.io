@@ -25,5 +25,5 @@ Left: Subassembly 1 isometric view <br> Right: Subassembly 1 exploded view showi
 Left: Subassembly 2 isometric view <br> Right: Subassembly 2 exploded view showing 3 handle components, wheels, control box
 
 ## Base Plate Model
-{% include image-gallery.html images="ME444 Part Iso View, ME444 Part Iso View 2" height="400" %}
+{% include image-gallery.html images="ME444 Part Iso View.png, ME444 Part Iso View 2.png" height="400" %}
 Left: Front isometric view of base plate <br> Right: Back isometric view of base plate
