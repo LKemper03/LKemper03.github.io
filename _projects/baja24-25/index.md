@@ -16,6 +16,7 @@ main-image: /bajateam.jpg
 ---
 ## Components in Chassis
 {% include image-gallery.html images="Baja Ergo Assembly iso.png" height="400" %}
+Body panels and hood designed using surface modeling. Exhaust on the side of the hood is cosmetic, to match the theme of the 2024-25 car (P-40 Warhawk).
 
 ## ANSYS Seat Analysis
 ### Technical Inspection Load
