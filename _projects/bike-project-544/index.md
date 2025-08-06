@@ -12,11 +12,5 @@ main-image:
 
 ---
 ## Main Assembly
-### Comparison
-{% include image-gallery.html images="" height="400" %}
+{% include image-gallery.html images="BikeIso.png" height="400" %}
 
-### Front and Rear Wheel Subassemblies
-{% include image-gallery.html images="" height="400" %}
-
-### Handlebar Subassembly
-{% include image-gallery.html images="" height="400" %}
