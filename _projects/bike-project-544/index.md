@@ -7,7 +7,7 @@ skills:
   - Surface modeling
   - Solidworks Design/Assembly
 
-main-image: 
+main-image: /BikeIso.png
 ---
 
 ---
