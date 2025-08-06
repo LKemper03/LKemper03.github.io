@@ -11,10 +11,11 @@ main-image: /BikeIso.png
 ---
 
 ---
-### Main Assembly
+## Main Assembly
 {% include image-gallery.html images="BikeIso.png" height="400" %}
 Final bicycle assembly. Consists of five subassemblies: seat, front wheel, rear wheel, handlebars, and crank
 
+## Subassemblies
 ### Seat Subassembly
 {% include image-gallery.html images="SeatIso2.png, SeatIso.png" height="400" %}
 Left: Top isometric view of seat <br>
