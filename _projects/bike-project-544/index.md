@@ -29,3 +29,5 @@ Subassembly of the crank, including the pedals. Star shape interfaces with gears
 
 ### Front and Rear Wheel Subassemblies
 {% include image-gallery.html images="WheelAssemblyIso.png, WheelAssemblyIso2.png" height="400" %}
+Left: Front wheel subassembly <br>
+Right: Rear wheel subassembly including rear cassette
