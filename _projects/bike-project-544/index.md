@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bicycle CAD [In Progress]
+title: Bicycle Modeling Project
 description:  Disassembled, measured, and modeled a MT Shasta bicycle for a class project as a team of 2. Main role on the project included final assembly, modeling of crank and pedals, both wheels and the seat.
 skills: 
   - Solid modeling
