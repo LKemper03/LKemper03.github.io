@@ -46,4 +46,5 @@ The circular sketch is the driver template used in FSAE competition technical in
 # 2024-25 Season
 
 ## Steering Wheel Design
-{% include image-gallery.html images="Seat 2324 iso view.png" height="400" %} <br>
+{% include image-gallery.html images="24WheelIso.png, 24WheelTopView.png" height="400" %} <br>
+Redesigned steering wheel based on driver feedback on previous design. Changes included increasing overall size and widening grips. Experimented with ANSYS topology optimization to locate areas where material could be removed.
