@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Formula SAE Electric Ergonomics
-description:  Designed and fabricated systems for driver accommodation for the 2023-24 and 24-25 Formula SAE seasons in compliance with FSAE 2024 ruleset. Components included driver's seat, steering wheel, headrest, firewall, nose cone, and body panels.
+description:  Designed and fabricated systems for driver accommodation for the 2023-24 and 24-25 Formula SAE seasons in compliance with the FSAE ruleset. Components included driver's seat, steering wheel, headrest, firewall, nose cone, and body panels.
 skills: 
   - Surface modeling
   - Solid modeling
