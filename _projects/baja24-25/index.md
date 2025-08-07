@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baja SAE 2024-25 Composites/Ergonomics
+title: Baja SAE Composites/Ergonomics
 description:  Modeled, analyzed, and fabricated carbon fiber composite components for use in the 2024-25 Clarkson Baja competition car.
 skills: 
   - Surface modeling
