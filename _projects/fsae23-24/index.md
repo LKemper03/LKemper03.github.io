@@ -43,6 +43,13 @@ The firewall was designed to allow mounting of electronics under the seat. The r
 {% include image-gallery.html images="Ergo 2324 percy side view.png" height="400" %}
 The circular sketch is the driver template used in FSAE competition technical inspection, which must pass clearance tests outlined in the competition regulations. All ergonomic component designs are based around this template.
 
+## Composite Fabrication
+{% include image-gallery.html images="Formula E Body Panel Film.jpg, Formula E Body Panel.jpg, Formula E Body Panel 2.jpg" height="400" %} <br>
+{% include image-gallery.html images="Formula E Nosecone Prep.jpg, Vacuum Test Piece.jpg" height="400" %} <br>
+{% include image-gallery.html images="Seat Layup Skeleton.jpg, Seat Layup Final.jpg" height="400" %} <br>
+
+
+
 # 2024-25 Season
 
 ## Steering Wheel Design
