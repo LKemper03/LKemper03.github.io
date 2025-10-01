@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baja SAE Composites/Ergonomics
-description:  Modeled, analyzed, and fabricated carbon fiber composite components for use in the 2024-25 Clarkson Baja competition car.
+description:  Modeled, analyzed, and fabricated carbon fiber composite components for use in the 2024-25 Clarkson Baja competition car. Through this project, I learned the basics of the ANSYS composite analysis software (ACP), and was able to compare the strength and rigidity of the two seat designs, as well as different layup methods. I also strengthened my composite fabrication skills, and learned more about mold fabrication and preparation.
 skills: 
   - Surface modeling
   - Solid modeling
