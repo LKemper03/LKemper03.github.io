@@ -15,9 +15,9 @@ title: Linus Kemper Portfolio # This is what shows up in the tab of the browser
 name: Linus Kemper
 headline: 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I’m a Mechanical Engineering graduate from Clarkson University (Class of 2025) with a focus on design and manufacturing. 
+  I have led ergonomics design for Clarkson’s first electric FSAE car, developed carbon fiber components for the baja team, 
+  and have gained considerable CAD experience both through class projects and my extracurricular teams. 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/linus1.jpg
