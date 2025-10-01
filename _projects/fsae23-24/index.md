@@ -44,9 +44,9 @@ The firewall was designed to allow mounting of electronics under the seat. The r
 The circular sketch is the driver template used in FSAE competition technical inspection, which must pass clearance tests outlined in the competition regulations. All ergonomic component designs are based around this template.
 
 ## Composite Fabrication
-{% include image-gallery.html images="Formula E Body Panel Film.jpg, Formula E Body Panel 2.jpg, Vacuum Test Piece.jpg" height="400" %}
+{% include image-gallery.html images="Formula E Body Panel Film.jpg, Formula E Body Panel 2.jpg, Vacuum Test Piece.jpg" height="400" %} <br>
 {% include image-gallery.html images="Seat Layup Skeleton.jpg, Seat Layup Final.jpg" height="400" %}
-
+The first two images show the process we used to lay body panels directly on the frame, avoiding the need for additional molds and reducing the fabrication cost. The top right image is a test piece which we used to learn the process of vacuum bagging flat panels. The bottom images were taken during the seat layup process. The left image shows the skeleton we added using unidirectional carbon tape, as an experiment to test for added rigidity. On the right is the finished layup drying.
 
 
 # 2024-25 Season
