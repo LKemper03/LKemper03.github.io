@@ -33,6 +33,10 @@ Right: Equivalent stress result of simulation. Maximum stress seen in this case 
 This analysis was performed to determine if reinforcement of bolt holes was necessary to prevent excessive stress at the mounting locations. The seat is made up of 4 plies angled at 0, 45, 90, and 45 degrees.
 
 ## Composite Fabrication
-### Seat Mold Preparation
-{% include image-gallery.html images="seatmoldsanded.jpg" height="400" %}
-Seat mold after finish sanding before tooling gelcoat application. Initial machining done by baja team members.
+### Driver's Seat
+{% include image-gallery.html images="seatmoldsanded.jpg, Baja Seat Finished.jpg" height="400" %}
+On the left is the seat mold after machining and finish sanding before tooling gelcoat application. The right image is the finished seat after removal from the mold.
+
+### Tub
+{% include image-gallery.html images="Baja Tub Layup.jpg" height="400" %}
+The tub during the layup process. The aluminum sheet is included between carbon layers to prevent cockpit intrusions from rocks or other objects on the course.
